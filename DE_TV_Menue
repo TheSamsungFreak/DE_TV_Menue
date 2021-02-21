@@ -1,2 +1,11 @@
 <layouttype>thumbnail</layouttype>
 
+<channels> 
+<channel> 
+<name>[B]German TV - SWIFT[/B]</name> 
+<thumbnail>https://ia802806.us.archive.org/24/items/german1_202002/German_1.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/DE_TV_M3U/main/TV_Swift.m3u</externallink> 
+<fanart>https://ia802806.us.archive.org/24/items/german1_202002/German_1.jpg</fanart> 
+<info></info> 
+</channel>
+
